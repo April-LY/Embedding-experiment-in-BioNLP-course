@@ -105,10 +105,9 @@ class SkipGram_Dataset(Dataset):
         self.idx2word = {0: self.unk_token}
 
         self.token_fre = {}
-
         self.vocab = set()
+        
         self.data = []
-
         self.center = []
         self.target = []
 
@@ -154,7 +153,6 @@ class SkipGram_Dataset(Dataset):
 
         if self.train_size and len(self.data) > self.train_size:
             self.data = random.sample(self.data, self.train_size)
-
 
     def __len__(self):
         return len(self.data)
@@ -218,7 +216,6 @@ logger.info(model)
 # input('Please press enter to continue.')
 
 # Step 4: Training.
-
 def batch_process(word2idx: dict, _batch_data, linker: str,
                   unk_token: str='[UNK]', return_tensor:bool=True):
 
@@ -244,6 +241,7 @@ def tensor_to_list(tensor, str_instance: bool=False):
 
 def save_embedding(best_model: torch.nn.Module, idx2word: dict,
                    save_file: str):
+    best_model.to('cpu')
     embedding_matrix = best_model.embedding.weight.data
     with open(save_file, 'w') as wf:
         for idx in range(embedding_matrix.shape[0]):
