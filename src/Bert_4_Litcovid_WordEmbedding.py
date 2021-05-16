@@ -7,7 +7,6 @@ Created on 16/05/2021 12:54
 
 import logging
 
-import tqdm
 import torch
 from torch.utils.data import DataLoader, Dataset
 
@@ -87,12 +86,11 @@ class Bert_Dataset(Dataset):
         self.read_token_fre()
         logging.info(f'Data size: {len(self.data):,}.')
 
-
     def read_token_fre(self):
         with open(self.token_fre_file) as f:
             for line in f:
-                token, fre = line.strip().split('\t')
-                self.token_fre[token] = int(fre)
+                word, fre = line.strip().split('\t')
+                self.token_fre[word] = int(fre)
 
         token_sort = sorted(self.token_fre, key=lambda x:self.token_fre[x],
                                 reverse=True)
@@ -160,7 +158,6 @@ with torch.no_grad():
 
         output = model(**encoded_input, output_hidden_states=True,
                        output_attentions=True)
-
         # batch_size, seq_length, embedding_size
         last_hidden_state = output['last_hidden_state']
         for idx, token in enumerate(batch_token):
@@ -171,8 +168,6 @@ with torch.no_grad():
 
 logging.info(f'Embedding save done, {save_count} embeddings saved.')
 wf.close()
-
-# Step 5: Visualize the embeddings by TSNE.
 
 # Step 5: Visualize the embeddings by TSNE.
 logging.info(f'Loading Embedding from {args.embedding_save_path}.')
@@ -201,9 +196,7 @@ def plot_with_labels(embeddings, nodes, filename='tsne.png'):
                  textcoords='offset points',
                  ha='right',
                  va='bottom')
-
   plt.savefig(filename)
-
 
 word_list, final_embedding = read_embedding(args.embedding_save_path)
 
