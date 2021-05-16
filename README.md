@@ -1,2 +1,7 @@
 # Embedding-experiment-in-BioNLP-course
-Embedding experiment in BioNLP course
+
+## Word2Vec-base  
+
+
+## Bert  
+
