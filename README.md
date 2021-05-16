@@ -24,5 +24,4 @@ python3 Skip_Gram_basic.py
 ## 3.2 Bert  
 ```
 python3 Bert_4_Litcovid_WordEmbedding.py
-
 ```
