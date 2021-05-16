@@ -42,7 +42,7 @@ class config:
 
         # loader parameters
         self.window_size = 5 # 3-5
-        self.train_size = 50000
+        self.train_size = 200000
 
         self.batch_size = 128
         self.shuffle = True
