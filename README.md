@@ -7,6 +7,12 @@
 unzip data/litcovid-trainingdata.zip
 ```
 
+## 2. Environmental preparation. 
+If pytorch installation fails, please use the official website command line to install.
+```
+pip3 install -r requirements.txt
+```
+
 ## 3. Quick start. 
 ## 3.1 Word2Vec-base. 
 
