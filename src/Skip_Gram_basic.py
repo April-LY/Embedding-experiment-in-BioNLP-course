@@ -199,9 +199,9 @@ class SkipGram(nn.Module):
         self.vocab_size = paras.vocab_size
         self.embedding_size = paras.embedding_size
 
-        # W = vd lookup  [1*v']*[V*embedding_size]  -> [v* embedding_size]
+        # W_{vd}
         self.embedding = nn.Embedding(self.vocab_size, self.embedding_size)
-        # output layer
+        # output layer W'_{dv}
         self.out_layer = nn.Linear(self.embedding_size, self.vocab_size)
         self.log_softmax = nn.LogSoftmax(dim=1)
 
