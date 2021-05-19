@@ -120,7 +120,7 @@ class SkipGram_Dataset(Dataset):
 
     def read_token_fre(self):
 
-        with open(self.token_fre_file) as f:
+        with open(self.token_fre_file, encoding='utf-8') as f:
             for line in f:
                 token, fre = line.strip().split('\t')
                 self.token_fre[token] = int(fre)
@@ -135,7 +135,7 @@ class SkipGram_Dataset(Dataset):
                 self.idx2word[len(self.idx2word)] = word
 
     def read_data(self):
-        with open(self.data_path) as f:
+        with open(self.data_path, encoding='utf-8') as f:
             for line in f:
                 token_list = line.strip().split('\t')
                 if self.low_case:
@@ -243,7 +243,7 @@ def save_embedding(best_model: torch.nn.Module, idx2word: dict,
                    save_file: str):
     best_model.to('cpu')
     embedding_matrix = best_model.embedding.weight.data
-    with open(save_file, 'w') as wf:
+    with open(save_file, 'w', encoding='utf-8') as wf:
         for idx in range(embedding_matrix.shape[0]):
             word = idx2word[idx]
             embedding_wf = ' '.join(tensor_to_list(embedding_matrix[idx], True))
@@ -296,7 +296,7 @@ logger.info(f'Loading Embedding from {args.embedding_save_path}.')
 def read_embedding(embedding_file: str, return_tensor: bool=True):
     token_list = []
     embedding_list = []
-    with open(embedding_file) as f:
+    with open(embedding_file, encoding='utf-8') as f:
         for line in f:
 
             word, embedding = line.strip().split('\t')
