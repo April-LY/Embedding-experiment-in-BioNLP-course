@@ -87,7 +87,7 @@ class Bert_Dataset(Dataset):
         logging.info(f'Data size: {len(self.data):,}.')
 
     def read_token_fre(self):
-        with open(self.token_fre_file) as f:
+        with open(self.token_fre_file, encoding='utf-8') as f:
             for line in f:
                 word, fre = line.strip().split('\t')
                 self.token_fre[word] = int(fre)
@@ -145,7 +145,7 @@ def tensor_to_list(tensor, str_instance: bool=False):
 
 logging.info('Embedding Generating.')
 save_count = 0
-wf = open(args.embedding_save_path, 'w')
+wf = open(args.embedding_save_path, 'w', encoding='utf-8')
 with torch.no_grad():
     for step, batch_token in enumerate(litcovid_dataloader):
 
@@ -174,7 +174,7 @@ logging.info(f'Loading Embedding from {args.embedding_save_path}.')
 def read_embedding(embedding_file: str, return_tensor: bool=True):
     token_list = []
     embedding_list = []
-    with open(embedding_file) as f:
+    with open(embedding_file, encoding='utf-8') as f:
         for line in f:
 
             word, embedding = line.strip().split('\t')
