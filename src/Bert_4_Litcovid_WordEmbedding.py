@@ -26,17 +26,18 @@ class config:
 
         self.low_case = False
 
-        self.token_fre_file = '../data/litcovid.TokenFrequency.txt'
-        self.token_fre_low_file = '../data/litcovid.TokenFrequency.low.txt'
+        self.token_fre_file = '../data/rto.TokenFrequency.txt'
+        self.token_fre_low_file = '../data/rto.TokenFrequency.low.txt'
 
         # Model parameters
-        self.model_name = 'dmis-lab/biobert-base-cased-v1.1'
+        #change
+        self.model_name = 'dmis-lab/biobert-large-cased-v1.1'
 
 
         # logging parameters
         self.save_log = False
         self.log_level = logging.INFO
-        self.log_file = '../model/litcovid.biobert.log'
+        self.log_file = '../model/rto.biobert.log'
 
         # loader parameters
         self.batch_size = 128
@@ -47,11 +48,11 @@ class config:
 
         self.print_step = 20
         self.save_embedding = True
-        self.embedding_save_path = '../model/litcovid.bio-bert.embedding.txt'
+        self.embedding_save_path = '../model/rto.bio-bert.embedding.txt'
 
         # TSNE parameters
         self.plot_only = 500
-        self.tsne_save_file = '../model/litcovid.tsne.bio-bert.png'
+        self.tsne_save_file = '../model/rto.tsne.bio-bert.png'
 
 args = config()
 
