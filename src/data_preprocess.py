@@ -56,6 +56,6 @@ if __name__ == '__main__':
     json_data_path = '../data/litcovid-data/litcovid_AGAC_only'
     #json_data_path = 'data/litcovid-data/litcovid_AGAC_only'
     sentence_save_file = '../data/litcovid.sentence.txt'
-    token_count_file = '../data/litcovid.TokenFrequency.txt'
-    token_low_count_file = '../data/litcovid.TokenFrequency.low.txt'
+    token_count_file = '../data/rto.TokenFrequency.txt'
+    token_low_count_file = '../data/rto.TokenFrequency.low.txt'
     save_json_as_text(json_data_path, sentence_save_file, token_count_file, token_low_count_file)
