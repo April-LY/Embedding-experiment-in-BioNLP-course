@@ -13,29 +13,28 @@ from nltk import sent_tokenize, word_tokenize
 from string import punctuation
 #from src.config import paras
 
+def extract_text(file_path: str, save_file: str, token_fre_file: str, token_fre_low_file: str):
 
-def save_json_as_text(json_path: str, save_file: str, token_fre_file: str, token_fre_low_file: str):
-
-    json_file_list = os.listdir(json_path)
     token_fre_dict = defaultdict(int)
     # fixme: test
     save_count = 0
     wf = open(save_file, 'w', encoding='utf-8')
+    text = ''
+
+    with open(file_path) as f:
+        doc = f.readlines()
+    for line in doc:
+        line = line.split("\t")
+        text += str(line)
     
-    for json_file in json_file_list:
-        json_file_path = os.path.join(json_path, json_file)
-        with open(json_file_path) as f:
-            doc = f.read()
-        json_doc = eval(doc)
-        text = json_doc['text'].strip()
-        for sentence in sent_tokenize(text):
-            save_count += 1
-            token_list = [token for token in word_tokenize(sentence) if token not in punctuation]
-            wf_line = '\t'.join(token_list)
-            wf.write(f'{wf_line}\n')
+    for sentence in sent_tokenize(text):
+        save_count += 1
+        token_list = [token for token in word_tokenize(sentence) if token not in punctuation]
+        wf_line = '\t'.join(token_list)
+        wf.write(f'{wf_line}\n')
             
-            for token in token_list:
-                token_fre_dict[token] += 1
+        for token in token_list:
+            token_fre_dict[token] += 1
     wf.close()
 
     writed_token = set()
@@ -53,9 +52,9 @@ def save_json_as_text(json_path: str, save_file: str, token_fre_file: str, token
 
 
 if __name__ == '__main__':
-    json_data_path = '../data/litcovid-data/litcovid_AGAC_only'
+    data_path = '../data/reference_PMID.match.table.txt'
     #json_data_path = 'data/litcovid-data/litcovid_AGAC_only'
-    sentence_save_file = '../data/litcovid.sentence.txt'
+    sentence_save_file = '../data/rto.sentence.txt'
     token_count_file = '../data/rto.TokenFrequency.txt'
     token_low_count_file = '../data/rto.TokenFrequency.low.txt'
-    save_json_as_text(json_data_path, sentence_save_file, token_count_file, token_low_count_file)
+    extract_text(data_path, sentence_save_file, token_count_file, token_low_count_file)
