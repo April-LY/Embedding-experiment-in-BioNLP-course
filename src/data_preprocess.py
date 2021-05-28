@@ -50,7 +50,6 @@ def extract_text(file_path: str, save_file: str, token_fre_file: str, token_fre_
     wf_low.close()
     print(f'{save_file}, {token_fre_file} save done, {save_count:,} sentences.')
 
-
 if __name__ == '__main__':
     data_path = '../data/reference_PMID.match.table.txt'
     #json_data_path = 'data/litcovid-data/litcovid_AGAC_only'
