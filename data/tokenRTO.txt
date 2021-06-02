@@ -1,0 +1,1800 @@
+carbon sensitivity
+epigenetic trait
+alkali soil sensitivity
+reversible male sterility
+calcium sensitivity
+sulfur sensitivity
+potassium sensitivity
+genic male sterility-photoperiod sensitive
+magnesium sensitivity
+nitrogen sensitivity
+hydrogen sensitivity
+resistance to disease by mycoplasma-like organism
+panicle weight
+oxygen sensitivity
+cobalt sensitivity
+plant morphology trait
+boron sensitivity
+seedling height
+black streak dwarf virus resistance
+copper sensitivity
+stink bug resistance
+fungal infection related grain discoloration
+ligule length
+molybdenum sensitivity
+aborted tri-nucleate stage
+culm number
+unfilled grain number
+chlorine sensitivity
+sedge weed
+silicon sensitivity
+selenium sensitivity
+iodine sensitivity
+chromium sensitivity
+incompatibility trait
+hybrid incompatibility
+male sterility extent
+fluorine sensitivity
+yield component
+panicle length
+brown rice length
+f1-hybrid incompatibility
+root morphology trait
+stigma exsertion
+udbatta disease resistance
+f2-generation sterility
+sporophytic incompatibility
+kernel smut disease resistance
+gametophytic incompatibility
+inflorescence branching
+stem strength
+primary branching of inflorescence
+pollen sterility
+animal damage resistance
+leaf lamina pubescence
+stem color
+grain moisture
+herbicide sensitivity
+node color
+aborted uni-nucleate stage
+node shattering
+phenol reaction
+mimic response
+plant embryo morphology trait
+root color
+spot disease
+genic male sterility-thermo sensitive
+lodging incidence
+variegated leaf
+variegated leaf necrosis
+anthocyanin content
+awn length
+manganese sensitivity
+blast disease resistance
+light sensitivity
+inflorescence feature
+shoot system morphology trait
+root dry weight
+flower bract morphology trait
+micronutrient sensitivity
+deep root dry weight
+zigzag leafhopper resistance
+penetrated root number
+root number
+leaf rolling
+sheath rot disease resistance
+grain aroma trait
+rice yellow mottle virus resistance
+panicle inflorescence type
+penetrated root thickness
+leafhopper
+deep root to shoot ratio
+root pulling force
+basal root thickness
+osmotic response sensitivity
+ratooning ability
+amylopectin content
+glutinous endosperm
+sugary endosperm
+shrunken endosperm
+broad-leaved weed
+phosphorus sensitivity
+deepwater stress
+floury endosperm
+dull endosperm
+male sterility type
+endosperm storage protein-1 content
+leaf shattering
+endosperm storage protein-2 content
+wild abortive CMS
+genetically engineered male sterility
+disease resistance
+giant embryo
+flooding related trait
+root mass density
+root mass density 0-15
+rat damage resistance
+root mass density 15-30
+root mass density 30-45
+percent root mass density
+ufra damage
+percent root mass density 0-15
+percent root mass density 15-30
+flag leaf angle
+percent root mass density 30-45
+rice grassy stunt virus-2 resistance
+rice grassy stunt virus-1 resistance
+harvest index
+false smut disease resistance
+far red light sensitivity
+leaf water potential
+basal internode diameter
+stature or vigor trait
+alkali digestion
+leaf length
+leaf relative water content
+days to heading
+brown rice protein
+lemma apiculus color
+awn color
+secondary branching of inflorescence
+relative biomass
+milled rice yield
+shoot axis internode length
+seed length
+rice hoja blanca disease resistance
+viral disease resistance
+seed width
+rice skipper resistance
+panicle number
+relative yield
+thrips resistance
+drought susceptibility index
+penetrated root dry weight
+canopy temperature
+red light sensitivity
+blue light sensitivity
+UV light sensitivity
+radiation response trait
+grain quality trait
+auxin sensitivity
+stress trait
+panicle inflorescence exsertion
+gibberellic acid sensitivity
+cytokinin sensitivity
+abiotic stress trait
+chinsurah boro CMS
+elongation ability
+height trait
+jasmonic acid sensitivity
+ethylene sensitivity
+maturity trait
+rice bacterial blight disease resistance
+macronutrient sensitivity
+2,4-dichlorophenoxyacetic acid sensitivity
+acid soil sensitivity
+biotic stress trait
+spikelet fertility
+seed weight
+insecticide sensitivity
+other miscellaneous trait
+seed morphology trait
+stigma color
+environmental stress related trait
+anther color
+drought sensitivity
+embryoless
+seed coat color
+rice hispa resistance
+leaf-roller resistance
+embryo shape
+globular embryo
+shootless embryo
+amylose content
+ligule color
+rootless
+genic male sterility
+brittle culm
+panicle inflorescence color
+germination ratio
+rice bacterial leaf streak disease resistance
+rice seedling blight disease resistance
+white-backed planthopper resistance
+leaf angle
+plant height
+lemma number
+palea number
+anther number
+gel consistency
+green leafhopper resistance
+rice grassy stunt 1 and 2 virus resistance
+anther shape
+stamen morphology trait
+grassy stunt virus disease
+genic male sterility-thermo-photoperiod sensitive
+pollen abortion type
+stem morphology
+rice bug resistance
+glume color
+head rice yield
+pistil morphology trait
+iron sensitivity
+stamen number
+auricleless
+root length
+moisture content trait
+photoperiod sensitivity trait
+crown rootless
+endospermless
+rice cytoplasmic male sterility
+root volume
+radicleless
+liguleless
+crop damage resistance
+water stress trait
+growth media composition sensitivity
+plant genetic trait unknown
+sterile lemma length
+leaf number
+microbial damage resistance
+in vitro regeneration ability
+coleoptile color
+pollen free
+rice delphacid resistance
+other nutrient sensitivity
+primary macronutrient sensitivity
+leaf senescence trait
+plant vigor trait
+secondary macronutrient sensitivity
+non-mineral nutrient sensitivity
+seed dormancy
+growth media pH sensitivity
+sheath blight disease resistance
+genetic trait
+root branching
+leaf thickness
+heat tolerance
+bird damage resistance
+insect damage resistance
+panicle inflorescence shape
+lemma and palea color
+light quality sensitivity
+chalky endosperm
+inflorescence type
+inflorescence shape
+100-grain weight
+inflorescence axis angle
+inflorescence length
+plant survivability
+armyworm resistance
+spikelet floret morphology trait
+perianth morphology trait
+drought tolerance
+biochemical trait
+root to shoot ratio
+root weight
+seedling vigor
+metabolite content trait
+enzymatic activity and protein content related trait
+biological process trait
+ADP glucose pyrophosphorylase activity trait
+nodal tillering
+submergence sensitivity
+brown rice shape
+alpha-amylase activity trait
+carotene content
+flavonoid content
+carbohydrate content
+yellow dwarf disease resistance
+chlorophyll a content
+leaf sheath auricle color
+chlorophyll b content
+vegetative vigor
+glucosamine content
+chlorophyll ratio
+leaf lamina color
+glucose content
+xanthophyll content
+smut disease
+cold tolerance
+seed thickness
+glutamine synthetase content
+root thickness
+hexose content
+male fertility restoration trait
+self-incompatibility
+invertase activity trait
+NADH glutamate synthase content
+perodidase-71 content
+phosphoglycerate mutase content
+bacterial disease resistance
+photosynthetic ability
+cutworm resistance
+reducing sugar content
+rubisco content
+chlorophyll to rubisco ratio
+rubisco to nitrogen content ratio
+phenotypic acceptability
+stem rot disease resistance
+rubisco to soluble protein ratio
+soluble protein content
+leaf color
+shoot system yield trait
+sucrose content
+tillering ability
+outcrossing potential
+sucrose phosphate synthase activity trait
+rice whorl maggot resistance
+sugar content
+hybrid evaluation
+ligule shape
+total amylase activity trait
+kneeing ability
+beta-amylase activity trait
+stem thickness
+total soluble sugar content
+plant genetic trait
+panicle axis angle
+grass weed
+days to flowering trait
+seed viability
+tiller number
+weed damage
+sogatodes resistance
+cms-hl type
+zinc sensitivity
+plant dry weight
+aborted at pollen maturity stage
+aluminum sensitivity
+heterosis
+brown spot disease resistance
+plant growth and development trait
+female sterility
+female flowering
+leaf elongation rate
+stem morphology trait
+rot disease
+leaf collar color
+male flowering
+reproductive growth time
+basal leaf sheath color
+shoot elongation rate
+vegetative growth time
+leaf width
+yield trait
+amylose to amylopectin ratio
+inflorescence morphology trait
+breakdown viscosity
+brown rice length to width ratio
+consistency viscosity
+cooked grain elongation
+leaf scald disease resistance
+cool paste viscosity
+planthopper
+cracked grain percentage
+1000-grain weight
+grain belly percent white
+nematode damage resistance
+milled grain color
+rice ragged stunt virus resistance
+plant trait
+forage yield
+nuclear mediated male sterility
+grain core percent white
+seed size
+sterility or fertility trait
+yield and yield component
+drought related trait
+grain yield trait
+grain size
+whole plant morphology trait
+grain thickness
+sterile lemma color
+plant growth hormone sensitivity
+dehulled grain width
+leaf-folder resistance
+nodal rooting
+caseworm resistance
+panicle threshability
+hoppers
+hot paste viscosity
+peak viscosity
+polished rice protein content
+grain length to width ratio
+setback viscosity
+rice tungro virus resistance
+white rice protein content
+aborted bi-nucleate stage
+embryo sac abortion
+lemma and palea pubescence
+bakanae disease resistance
+vascular leaf morphology trait
+fertility related trait
+pollen fertility
+narrow brown leaf spot disease resistance
+gall midge resistance
+brown planthopper resistance
+anther culturability
+stem internode color
+culm angle
+callus induction
+salt sensitivity
+germination rate
+ear length
+temperature response trait
+ear diameter
+root activity
+seed longevity
+spikelet sterility
+male sterility
+fungal disease resistance
+grain number per plant
+humidity related trait
+plant fresh weight
+ear infructescence number
+parasitic weed
+fruit seed number
+leaf drying
+filled grain number
+filled grain percentage
+grain yield per plant
+grain yield per panicle
+large vascular bundle number to spikelet number ratio
+leaf area to spikelet number ratio
+panicle to tiller ratio
+stem borer resistance
+seed set percent
+spikelet number
+total biomass yield
+drought recovery
+root epidermis cell length
+light intensity sensitivity
+basic vegetative phase
+gelatinization temperature
+anthesis silking interval
+albino plantlet differentiation frequency
+mineral and ion content trait
+carbon content
+cell membrane stability
+leaf blast disease resistance
+days to maturity
+vascular tissue morphology trait
+root penetration index
+vascular bundle number
+grain shattering
+glume opening
+adventitious root thickness
+growth hormone content
+panicle blast disease resistance
+abscisic acid concentration
+acid sensitivity
+nutrient sensitivity
+alkali sensitivity
+chemical stress sensitivity
+germinability at low temperature
+seed shape
+sterility related trait
+seed color
+endosperm color
+seed composition quality trait
+carbohydrate composition related trait
+seed protein composition trait
+fat and essential oil composition related trait
+leaf shape
+leaf composition trait
+pigment content trait
+chlorophyll content
+carotenoid content
+fertility restoration trait
+female fertility restoration trait
+flower morphology trait
+spikelet weight
+potassium chlorate resistance
+leaf rolling time
+leaf temperature
+leaf weight
+nitrogen recycling
+osmotic adjustment capacity
+penetrated root length
+penetrated to total root ratio
+phosphorus uptake
+plant survival percentage under submergence
+potassium concentration
+potassium uptake
+relative growth rate
+relative root length
+relative shoot elongation under submergence
+rooting depth
+stomatal closure rate
+stomatal closure time
+stomatal conductance
+stomatal resistance
+submergence tolerance
+sodium to potassium content ratio
+sodium concentration
+sodium uptake
+total shoot elongation under submergence
+abaxial stomatal frequency
+adaxial stomatal frequency
+anther length
+lemma apiculus hair length
+culm color
+spikelet floret color
+flower color
+large vascular bundle number to leaf area ratio
+large vascular bundle number
+leaf area trait
+leaf position
+leaf length to width ratio
+leaf nitrogen content
+mesocotyl length
+panicle base to lowest branch
+peduncle top diameter
+primary branch number
+rhizome number
+rhizome morphology trait
+rhizome branch angle
+rhizome branch number
+shoot dry weight
+rhizome length
+rhizome internode length
+rhizome internode number
+rhizome dry weight
+secondary branch number
+small vascular bundle number
+plant volume
+space per culm
+space to culm ratio
+specific leaf area
+spikelet length to width ratio
+spikelet width
+spikelets per panicle length
+leaf stomatal complex frequency
+tiller angle
+shoot axis weight
+white-backed planthopper egg mortality
+watery lesion percentage
+shoot fresh weight
+petal color
+sepal color
+tepal color
+endosperm morphology trait
+stem length
+stem angle
+root fresh weight
+root dry weight to tiller number ratio
+cytoplasmic male sterility
+inflorescence color
+inflorescence number
+infructescence weight
+seminal root length
+endosperm quality
+average grain weight
+dehulled grain weight
+100-dehulled grain weight
+1000-dehulled grain weight
+polished grain weight
+100-polished grain weight
+1000-polished grain weight
+plant volume (sensu Poaceae)
+plant quality trait
+protein content
+enzyme activity trait
+UV-A light sensitivity
+UV-B light sensitivity
+total fat content
+magnesium to potassium content ratio
+fat and essential oil content
+hydrogen peroxide content
+diastatic power
+ash content
+sodium content
+potassium content
+soluble to total protein ratio
+malt-extract percentage
+grain density
+groat percentage
+lemma shape
+abscisic acid sensitivity
+leaf perimeter
+colored grain percentage
+crushed grain percentage
+vivipary
+plant embryo development trait
+inflorescence development trait
+flower development trait
+involucre bristle length
+allelopathic effect
+spikelet density
+relative phosphorus distribution between shoot and root
+relative phosphorus utilization efficiency
+pearl millet downy mildew resistance
+days to tassel
+pedicel length
+green plantlet differentiation frequency
+green plantlet yield frequency
+relative total dry weight
+stem node number
+popping expansion volume
+relative shoot dry weight
+spike width
+seed fertility
+total root number
+inflorescence primary branch length
+leaf sheath diameter
+inflorescence bristle length
+relative root dry weight
+relative phosphorus concentration
+cauline axillary branch number
+relative acid phosphatase activity
+relative phosphorus uptake
+peduncle width
+lemma length
+flour color
+leaf necrosis
+seed growth and development trait
+shoot system growth and development trait
+leaf growth and development trait
+root development trait
+spikelet morphology trait
+days to silk
+phyllochron
+axillary bud dormancy
+tiller bud dormancy
+barley fusarium head blight resistance
+wheat fusarium head blight resistance
+fungal blight disease resistance
+grain core area white
+brown rice yield
+cooking or brewing quality
+mycotoxin content
+deoxynivalenol content
+floret number
+pre-flowering flower abortion
+bran percentage
+tetraploid wheat fusarium head blight resistance
+phytochemical compound content
+ferulic acid content
+style color
+third leaf position
+cob diameter
+inflorescence circumference
+ear circumference
+inflorescence height
+ear infructescence position
+grassy flavor
+fruit tenderness
+juiciness
+kernel row number per ear
+kernel row length
+grain tenderness
+maysin content
+Zea mays northern leaf blight disease resistance
+NCLB incubation period
+NCLB area under disease progress curve
+fruit crispness
+leaf margin color
+starch content
+starch yield
+starchiness
+sucrose synthase activity trait
+fruit sweetness
+turgor pressure
+starch concentration
+amylase activity trait
+phosphatase activity trait
+acid phosphatase activity trait
+hull color
+pericarp color
+plant color
+leaf gloss
+globulin protein content
+imidazolinone sensitivity
+sulfonylurea herbicide sensitivity
+brittle endosperm
+seminal rootless
+fascicled ear
+etched endosperm
+rough endosperm
+wrinkled seed
+leaf vein color
+leaf midrib color
+leaf adherence
+sporocyte development trait
+microsporocyte development trait
+megasporocyte development trait
+megasporocyte number
+microsporocyte number
+sporogenesis
+cell cycle trait
+meiotic cell cycle trait
+mitotic cell cycle trait
+lignin content
+lignin monomer content
+lignin biosynthesis trait
+grain length
+plastochron
+plant organ morphology trait
+plant aspect
+plant axis morphology trait
+shoot axis morphology trait
+branch morphology trait
+tuber morphology trait
+subterranean shoot axis tuber morphology trait
+subterranean shoot axis tuber shape
+subterranean shoot axis tuber size
+subterranean shoot axis tuber appearance
+subterranean shoot axis tuber mass
+phyllome morphology trait
+leaf morphology trait
+cotyledon morphology trait
+seedling cotyledon color
+seedling cotyledon number
+seedling cotyledon size
+coleoptile morphology trait
+cardinal organ part morphology trait
+shoot axis internode morphology trait
+stem internode morphology trait
+hypocotyl morphology trait
+mesocotyl morphology trait
+seedling hypocotyl color
+seedling hypocotyl green
+seedling hypocotyl green with bronze band
+seedling hypocotyl purple
+seedling hypocotyl dark purple
+stalk morphology trait
+petiole morphology trait
+petiole length
+petiole shape
+petiole size
+seedling hypocotyl morphology trait
+bacterial blight disease resistance
+embryo hypocotyl morphology trait
+seedling mesocotyl morphology trait
+embryo mesocotyl morphology trait
+seedling cotyledon morphology trait
+plant embryo cotyledon morphology trait
+peduncle morphology trait
+peduncle waxiness
+peduncle type
+peduncle color
+peduncle attachment
+seedling hypocotyl size
+inflorescence axis morphology trait
+inflorescence axis size
+inflorescence branch morphology trait
+tassel branch morphology trait
+reproductive shoot system morphology trait
+inflorescence waxiness
+tassel inflorescence morphology trait
+bud morphology trait
+axillary bud morphology trait
+axillary bud size
+axillary bud number
+axillary bud shape
+axillary bud prominence
+tassel inflorescence color
+tassel inflorescence circumference
+tassel inflorescence height
+tassel inflorescence length
+tassel inflorescence diameter
+inflorescence density
+inflorescence depth
+inflorescence diameter
+inflorescence weight
+inflorescence width
+inflorescence texture
+inflorescence presence
+pseudostem morphology trait
+pseudostem length
+pseudostem shape
+pseudostem color
+pseudostem diameter
+tassel branch dry weight
+tassel branch number
+tassel inflorescence type
+bract morphology trait
+inflorescence bract morphology trait
+inflorescence bract length
+inflorescence bract cover
+inflorescence bract color
+leaf vein morphology trait
+leaf vein size
+leaf midvein morphology trait
+leaf midvein thickness
+leaf attitude
+leaf flexibility
+leaf volume
+leaf lamina area
+leaf cover
+leaf lamina morphology trait
+leaf lamina margin morphology trait
+adult leaf morphology trait
+flag leaf morphology trait
+organ margin morphology trait
+phyllome margin morphology trait
+leaf sheath morphology trait
+multi-tissue plant structure morphology trait
+cardinal part of a multi-tissue plant structure morphology trait
+seed coat morphology trait
+plant structure morphology trait
+collective plant structure morphology trait
+collective organ part structure morphology trait
+collective plant organ structure morphology trait
+portion of plant tissue morphology trait
+in vitro plant structure morphology trait
+collective phyllome structure morphology trait
+inflorescence primary branch morphology trait
+panicle inflorescence morphology trait
+fruit diameter
+fruit attachment
+fruit type
+fruit hairiness
+fruit set trait
+spikelet floret shape
+spikelet floret size
+spikelet floret diameter
+lodicule length
+lodicule type
+flower diameter
+flower shape
+flower length
+flower abscission zone morphology trait
+floral organ morphology trait
+petal morphology trait
+sepal morphology trait
+tepal morphology trait
+sporophyll morphology trait
+megasporophyll morphology trait
+microsporophyll morphology trait
+glume morphology trait
+leaf yield trait
+fruit yield trait
+leaf erect
+leaf prostrate
+leaf penduloum
+leaf lamina splitting
+spine leaf morphology trait
+spine leaf size
+spine leaf color
+stem hairiness
+seed coat length
+flower type
+cleistogamus flower
+chasmogamous flower
+petiolule morphology trait
+petiolule color
+petiolule shape
+petiolule length
+seed coat luster
+seed coat hardness
+seed coat proportion
+leaf wet weight
+stem size
+stem shape
+fruit number trait
+fruit harvest index
+leaf harvest index
+seed harvest index
+root nodule morphology trait
+root nodule weight
+root nodule number
+dry fruit color
+seed coat pigment bleeding
+seed coat texture
+seed coat pattern
+seed yield trait
+exocarp morphology trait
+exocarp thickness
+fruit hollowness
+fruit color uniformity
+fruit bitterness trait
+trichome morphology trait
+trichome appressed
+trichome acircular
+trichome canescent
+trichome capillary
+trichome clavate
+trichome ensiform
+trichome hirsute
+grain weight
+infructescence morphology trait
+infructescence axis morphology trait
+cob weight
+ear weight
+cob color
+non-vascular leaf morphology trait
+multi-tissue plant structure growth and development trait
+plant organ growth and development trait
+plant structure growth and development trait
+fruit growth and development trait
+seed shattering
+seed quality trait
+mannose content
+plant phenological trait
+photoperiod-sensitive flowering time trait
+kernel weight per ear
+infructescence yield trait
+kernel number per ear
+kernel number per row
+tassel spike length
+tassel branch zone length
+rank number per ear
+aleurone layer morphology trait
+aleurone layer color
+aleurone layer appearance
+pericarp morphology trait
+endocarp morphology trait
+whole plant growth and development trait
+mesocarp morphology trait
+seedling growth and development trait
+corolla morphology trait
+corolla color
+stem weight
+stem number
+spikelet rachilla morphology trait
+cyanide content
+cob shape
+cob length
+cob width
+cob area
+cob angle
+ear color
+ear shape
+ear aspect
+ear infructescence position ratio
+hilum morphology trait
+hilum color
+ear inflorescence morphology trait
+panicle density
+inflorescence hairiness
+spikelet rachilla length
+spikelet rachilla shape
+spikelet rachilla hair type
+grain width
+ear infructescence morphology trait
+leaf foliage rating
+glume shape
+involucre morphology trait
+plant embryo cotyledon color
+root system morphology trait
+staminate flower number trait
+pistillate flower number trait
+shoot-borne shoot system morphology trait
+epicormic shoot system morphology trait
+seed hardness
+epicormic shoot system number
+gibberellin biosynthesis trait
+cellulose content
+androecium morphology trait
+aluminum content trait
+flag leaf area
+polished grain length
+polished grain width
+polished grain length to width ratio
+glume cover
+glume persistence
+inflorescence exsertion
+plant height uniformity
+basal tiller number
+basal tiller length
+adventitious root number
+coleoptile length
+days to flag leaf emergence
+deep root number
+senesced leaf number
+deep root weight ratio
+lateral root length
+lateral root number
+leaf dry weight
+photosynthetic rate
+relative chlorophyll content
+water use efficiency
+transpiration rate
+root to total biomass ratio
+exudate sap volume
+days to inflorescence exsertion
+days to tassel emergence
+days to ear shoot emergence
+phosphorus content
+leaf phosphorus content
+respiration rate
+net photosynthetic rate
+osmotic adjustment break point
+relative harvest index
+relative leaf area
+relative leaf dry weight
+relative panicle number
+relative spikelet number
+relative plant height
+stem width
+stem senescence
+root yield
+root quality trait
+barium content trait
+cobalt content trait
+chromium content trait
+iodine content trait
+lead content trait
+silicon content trait
+rubidium content trait
+strontium content trait
+root hair density
+root cortex cross-sectional area
+subterranean shoot axis tuber length
+root stele cross-sectional area
+root aerenchyma cross-sectional area
+root cross sectional area
+root system width
+root system depth
+root system width to depth ratio
+subterranean shoot axis tuber width
+inflorescence axis thickness
+number of panicle internodes
+panicle inflorescence internode length
+number of panicle inflorescence branches per internode
+panicle inflorescence terminal primary branch length
+number of metaxylem vessels
+days to booting
+processing quality trait
+cooking quality trait
+brewing quality trait
+shoot axis tuber yield
+inflorescence axis length
+fruit shattering
+legume fruit shattering
+pulvinus size
+infructescence development trait
+berry fruit morphology trait
+capsule fruit morphology trait
+caryopsis fruit morphology trait
+drupe fruit morphology trait
+follicle fruit morphology trait
+legume fruit morphology trait
+nut fruit morphology trait
+samara fruit morphology trait
+schizocarp fruit morphology trait
+silique fruit morphology trait
+achene fruit weight
+berry fruit weight
+capsule fruit weight
+drupe fruit weight
+follicle fruit weight
+legume fruit weight
+nut fruit weight
+samara fruit weight
+schizocarp fruit weight
+silique fruit weight
+achene fruit morphology trait
+pepo fruit morphology trait
+pome fruit morphology trait
+circumscissile capsule fruit morphology trait
+utricle capsule fruit morphology trait
+coccarium capsule fruit morphology trait
+loculicidal capsule fruit morphology trait
+poricidal capsule fruit morphology trait
+septicidal capsule fruit morphology trait
+loment fruit morphology trait
+hesperidium fruit morphology trait
+grain volume
+grain color trait
+floral organ size
+stamen size
+pistil size
+petal size
+sepal size
+petal length
+petal width
+sepal length
+sepal width
+stamen length
+pistil length
+homeotic development trait
+vegetative homeotic development trait
+reproductive homeotic development trait
+floral organ length
+floral organ width
+flowering time trait
+fruit color
+endocarp color
+mesocarp color
+exocarp color
+fruit columella color
+locular tissue trait
+pericarp texture
+exocarp texture
+fruit size
+fruit length
+fruit width
+fruit shape
+fruit morphology trait
+fruit distal end shape
+fruit proximal end shape
+fruit abscission zone size
+fruit ripening trait
+fruit firmness
+leaf margin morphology trait
+leaflet number
+leaf size
+shoot meristem development
+shoot branching
+obsoleted fruit set trait
+acid detergent fiber
+dietary fiber related trait
+carbon isotope discrimination
+dry matter digestibility
+malt tenderness
+flour particle size
+starch digestibility
+water absorption by seed
+pesticide sensitivity
+phototropism response trait
+shoot axis phototropism response trait
+root phototropism response trait
+endosperm storage protein content
+pyruvate orthophosphate dikinase activity trait
+starch grain size
+starch grain shape
+oxidative stress
+starch grain synthesis
+pistil number
+cytokinin content
+seed maturation
+leaf rolling tolerance
+leaf necrosis tolerance
+leaf yellowing tolerance
+root hair length
+seed phosphorus content
+abscisic acid content
+jasmonic acid content
+diterpenoid phytoalexin content
+momilactone A content
+momilactone B content
+auxin content
+amino acid content
+tryptophan content
+gibberellic acid content
+brassinosteroid content
+brassinosteroid sensitivity
+panicleless
+inflorescenceless
+albumin content
+leaf curling
+plant cell shape
+plant cell morphology trait
+plant cell size
+crown root number
+cell growth and development trait
+cell elongation trait
+leaf lamina joint bending
+leaf sheath length
+leaf lamina length
+peduncle length
+root meristem development
+gravity response trait
+fruit flavor trait
+beta-carotene content
+alpha carotene content
+cyclic carotene content
+acyclic carotene content
+lycopene content
+pungency
+lutein content
+cercospora leaf spot resistance
+protist disease resistance
+Meloidogyne incognita resistance
+cucurbit downy mildew resistance
+Meloidogyne javanica resistance
+petiole color
+xylem color
+phloem color
+root shape
+stay green trait
+cell organelle morphology trait
+plastid development trait
+chloroplast development trait
+leaf sheath auricle pubescence
+leaf sheath auricle morphology trait
+awn morphology trait
+awn thickness
+leaf lamina width
+leaf sheath width
+leaf pubescence
+leaf lamina margin pubescence
+leaf sheath color
+life cycle habit
+sterile lemma shape
+sterile lemma width
+fruit quality trait
+fruit senescing quality trait
+grain shape
+grain length to width ratio
+flag leaf angleflag leaf angleawn presence
+straighthead
+flower number trait
+floret number per branch
+floret number per inflorescence
+fruit surface area
+grain surface area
+fruit volume
+dehulled grain volume
+fruit curved length
+grain curved length
+fruit weight
+10-dehulled grain weight
+ligule morphology trait
+ligule pubescence
+ligule margin pubescence
+inflorescence branch arrangement
+arrangement of inflorescence primary branch
+inflorescence axis texture
+cell organelle development trait
+shoot growth angle
+flag leaf length
+flag leaf lamina width
+grain number
+length of grain with hull
+hulled grain width
+curved length of grain with hull
+surface area of grain with hull
+hulled grain volume
+ligule margin shape
+rhizome formation
+spikelet length
+linoleic acid content
+oleic acid content
+stearic acid content
+omega-3 fatty acid content
+alpha-linolenic acid content
+glyphosate sensitivity
+glufosinate sensitivity
+acetolactate synthase inhibitor sensitivity
+European corn borer resistance
+rootworm resistance
+salt tolerance
+proline content
+oligosaccharide content
+raffinose content
+fructose content
+monosaccharide content
+polysaccharide content
+carbohydrate derivative content
+lodicule morphology trait
+lodicule number
+lodicule shape
+carpel morphology trait
+carpel number
+phyllotaxy
+plant tissue development trait
+meristem tissue development trait
+meristem identity
+organ identity
+floral organ identity
+shoot apical meristem development
+vegetative to reproductive phase transition trait
+floral organ development trait
+lodicule development trait
+ectopic lodicule development
+floral bract development trait
+floral bract number
+inflorescence bract development trait
+inflorescence bract number
+glume number
+spikelet meristem identity
+inflorescence size
+panicle inflorescence size
+floret number per spikelet
+tertiary branch number
+tertiary branching of inflorescence
+stem elongation
+carpel shape
+floral organ number
+petal number
+sepal number
+tepal number
+lithium content
+boron content
+magnesium content
+phosphorus concentration
+sulfur content
+calcium content trait
+manganese concentration
+iron concentration
+cobalt concentration
+nickel content
+copper concentration
+zinc concentration
+arsenic content trait
+selenium content
+molybdenum content
+cuperous ion concentration
+cuperic ion concentration
+cadmium content trait
+leaf chlorosis
+days to germinate
+plant width
+leaf margin serrated
+rolled leaf
+seedling hypocotyl length
+leaf trichome density
+aphid resistance
+germinability in dark
+DSDS50
+percent germination
+leaf lamina color distribution
+inflorescence primary branch attitude
+inflorescence axis color
+inflorescence branch color
+penultimate leaf length
+penultimate leaf lamina width
+awn width
+stigma length
+style length
+internode color in proxomity to colored node
+leaf area index
+leaf chlorophyll content
+chlorophyll content in an extract
+quantum yield
+chlorophyll fluorescence induction kinetics
+fluorescence related trait
+quantum yield determined by the light curve
+quantum yield at a given wavelength
+continuous fluorescence yield
+leaf area duration
+leaf senescence rate
+leaf senescence duration
+panicle inflorescence compactness
+grain weight to panicle weight ratio
+shoot system potassium content
+shoot system sodium content
+sorghum stem borer resistance
+chickpea pod borer
+sorghum shoot fly resistance
+sorghum grain mold
+sorghum rust resistance
+sorghum downy mildew resistance
+chickpea botrytis grey mold resistance
+chickpea fusarium wild resistance
+chickpea colleotrichum blight resistance
+chickpea ascochyta blight resistance
+sorghum leaf blight resistance
+seed texture
+seed coat spotted
+tertiary shoot branch number
+secondary shoot branch number
+primary shoot branch number
+basal axillary tertiary branch number
+basal axillary secondary branch number
+basal axillary primary branch number
+basal axillary branch number
+apical axillary tertiary branch number
+apical axillary secondary branch number
+apical axillary primary branch number
+apical axillary branch number
+leaf lamina pubscence length
+leaf lamina pubescence density
+leaf lamina margin pubescence length
+leaf lamina margin pubescence density
+glume length
+glume width
+glume pubescence density
+glume pubescence
+glume pubescence length
+glume waxiness
+barley leaf scald disease resistance
+barley spot blotch disease resistance
+wheat spot blotch disease resistance
+barley stripe rust disease resistance
+wheat stripe rust disease resistance
+barley leaf rust disease resistance
+wheat leaf rust disease resistance
+barley common root rot resistance
+wheat common root rot resistance
+barley powdery mildew disease resistance
+wheat powdery mildew disease resistance
+barley net form net blotch disease resistance
+barley spot form net blotch disease resistance
+barley septoria disease resistance
+wheat septoria leaf blotch disease resistance
+barley leaf streak resistance
+barley yellow dwarf virus disease resistance
+beta-glucan content
+spike exsertion
+beta-glucanase activity trait
+beta-glucanase thermostability
+residual beta-glucanase activity trait
+barley wort protein concentration
+barley wort color
+barley malt protein
+phenolic compound content
+head drop
+zeaxanthin content
+beta-cryptoxanthin content
+stover organic matter digestibility
+metabolized energy of stover
+stover nitrogen content
+stem diameter
+spiral leaf
+stem senescence
+neck leaf presence
+root cracking
+total water soluble content
+iron content trait
+zinc content trait
+manganese content
+copper content trait
+nitrogen content
+nitrate content
+stomatal process related trait
+mineral and ion transport trait
+stomatal opening
+nitrate sensitivity
+nitrate transport
+nitrate uptake
+starch mobilization
+phosphate content
+adventitious root length
+adventitious rootless
+CW-cytoplasmic male sterility
+Indole-3-acetic acid content
+plant cell length
+root cortical cell length
+vascular bundle development trait
+gynoecium development trait
+ovary development trait
+phosphorus toxicity
+shoot system phosphorus content
+chlorophyll fluorescence quenching
+photochemical quenching
+non photochemical quenching
+neoxanthin content
+violaxanthin content
+involucral bract spine presence
+arachnid damage resistance
+two-spotted spider mite resistance
+ethanol yield from biomass
+stem internode bent
+obsolete cotyledon size
+secondary xylem volumetric density
+shoot axis node color
+infructescence position
+tuberous root tuber diameter
+tuberous root tuber morphology trait
+branch position
+branch angle
+caruncle color
+fruit position
+whole plant size
+leaf lamina lobe morphology trait
+leaf lamina lobe length
+leaf lamina lobe width
+plant ovary color
+stem cortex color
+stem epidermis color
+disk flower color
+stipule length
+plant ovary morphology
+anther morphology trait
+lemma morphology trait
+palea morphology trait
+root system aluminum content
+root system arsenic content
+root system boron content
+root system barium content
+root system calcium content
+root system cadmium content
+root system cobalt content
+root system chromium content
+root system copper content
+root system iron content
+root system iodine content
+root system potassium content
+root system lithium content
+root system magnesium content
+root system manganese content
+root system molybdenum content
+root system sodium content
+root system nickel content
+root system phosphorus content
+root system lead content
+root system rubidium content
+root system sulfur content
+root system selenium content
+root system silicon content
+root system strontium content
+root system zinc content
+shoot system aluminum content
+shoot system arsenic content
+shoot system boron content
+shoot system barium content
+shoot system calcium content
+shoot system cadmium content
+shoot system cobalt content
+shoot system chromium content
+shoot system copper content
+shoot system iron content
+shoot system iodine content
+shoot system lithium content
+shoot system magnesium content
+shoot system manganese content
+shoot system molybdenum content
+shoot system nickel content
+shoot system lead content
+shoot system rubidium content
+shoot system sulfur content
+shoot system selenium content
+shoot system silicon content
+shoot system strontium content
+shoot system zinc content
+WTO root
+plant property
+polyphenol content
+environmental condition
+phenotype
+trait
+ability to flower
+abiotic condition
+awnedness
+biotic condition
+development
+early beginning of anthesis
+early flag leaf emergence
+early flag leaf senescence
+early floral initiation
+early flowering
+early heading
+early maturation
+early seedling vigour
+free-threshing
+growth
+hard threshing
+high density of shoot
+high fertility
+high grain protein content
+high grain specific weight
+intermediate plant habit
+lack of seed dormancy
+lack of vernalization requirement
+late beginning of anthesis
+late flag leaf emergence
+late floral initiation
+late flowering
+late heading
+late leaf senescence
+late maturation
+long spike
+long-awned
+low density of shoot
+low fertility
+low grain specific weight
+medium-awned
+moderate response to vernalization
+morphology
+nearly-erect plant habit
+nearly-prostrate plant habit
+plant density
+quality
+reproduction
+response to environmental condition
+semi-erect plant habit
+semi-prostrate plant habit
+short spike
+short-awned
+shrivelled grain
+spring growth habit
+undersized grain
+vernalization-responsive
+weak response to vernalization
+winter growth habit
+Green Area Index
+abiotic stress
+above-ground dry matter quantity
+anther extrusion
+awn
+beginning of anthesis
+chemical
+crop yield
+ear emergence time
+ear-bearing tiller density
+extreme temperature
+fiber quality
+final leaf number
+flag leaf emergence time
+floral initiation
+flowering duration
+food property
+germinative power
+grain composition
+lodging resistance
+milling quality
+nutrient use efficiency
+photoperiod
+plant habit
+plant precocity
+response to plant density
+response to vernalization
+shade
+shatter resistance
+shoot density
+soil property
+solar radiation
+spike waxiness
+sprouting tolerance
+sterility
+threshability
+water quantity
+water-soluble carbohydrate content
+wind speed
+acaricide
+admixture
+air humidity
+amount of damaged starch
+antibiotics
+bread making quality
+cold
+disease
+dry matter grain yield
+ear number per meter of row
+early leaf senescence
+erect plant habit
+excessive rain
+flooding
+frost
+fungicide
+glume tenacity
+grain gluten content
+grain hardness
+grain nitrogen content
+grain number per ear
+grain protein content
+grain starch content
+grain weight per ear
+heat
+heat shock
+herbicide
+hot wind
+insecticide
+lack of water
+macronutrient deficiency
+macronutrient use efficiency
+micronutrient deficiency
+micronutrient use efficiency
+milling score
+moisture content of the grain
+mottled grain
+nematicide
+number of ear-bearing tillers at anthesis
+number of ear-bearing tillers at maturity
+number of ear-bearing tillers per meter row
+number of grains per square meter
+number of viable seeds per meter of row
+percentage of florets without grain
+pest
+pest resistance
+pesticide
+photosensitivity
+post-harvest seed dormancy
+pre-harvest sprouting tolerance
+presence of black points
+prostrate plant habit
+rainfall
+resistance to noxious weed
+response to stress from soil
+root lodging resistance
+semolina characteristic
+shoot number per m2
+shoot number per plant
+soil acidity
+soil mineral
+soil toxic component
+spike fragility
+stalk lodging resistance
+stem water-soluble carbohydrate content
+susceptibility to lodging
+thousand kernel weight
+water stress
+wind resistance
+arthropod
+atrazine
+boron deficiency
+boron use efficiency
+bread smell
+copper deficiency
+copper use efficiency
+crumb colour
+crumb firmness
+drought
+endosperm texture
+extreme temperature resistance
+flour colour
+flour composition
+flour mechanical property
+grain bright color
+grain softness
+grain uniformity of size
+hard grain texture
+insect
+insect resistance
+invertebrate
+iron deficiency
+iron use efficiency
+level of starch-surface friabilin
+manganese deficiency
+manganese use efficiency
+moisture tolerance
+nitrogen deficiency
+nitrogen use efficiency
+noxious weed
+nuclear male sterility
+pathogen
+pathogen resistance
+phophorus deficiency
+phosphorus use efficiency
+potassium deficiency
+potassium use efficiency
+quantity of hard starch granule
+resistance to Cirsium arvense
+resistance to arthropod
+resistance to chemicals
+resistance to invertebrate pest
+response to potassium limitation
+response to primary nutrient limitation
+response to soil acidity
+response to water deficiency
+rhizotoxicity
+semolina color
+shade tolerance
+single-kernel hardness
+soft grain texture
+storage pest
+storage pest resistance
+tolerance to extreme temperature
+toxin in the soil
+<new term>
+Alternaria Leaf Blight
+American Wheat Striate Mosaic
+Anthoxanthum Mosaic
+Army Cutworm
+Armyworm
+Ascochyta Leaf Spot
+Black Point
+Bunt
+Cecidomyides
+Cecidomyides resistance
+Cephalosporium Leaf Stripe
+Chloris Striate Mosaic
+Cirsium arvense
+Helminthosporium Leaf Blight
+Hessian fly
+Hessian fly resistance
+anthracnose
+aphid
+bacteria
+bacterial stripe
+basal glume rot
+billbug
+billbug resistance
+black chaff
+cold resistance
+crude protein content of the flour
+discoloration of flour
+dough extensibility
+dough resistance to shearing
+dough strength
+ear cockle
+ergot
+eyespot
+flour ash content
+flour brightness
+flour crude fiber content
+flour lipid content
+flour resistance to deformation
+flour whiteness
+frost resistance
+frost tolerance
+fungi
+greenbug
+greenbug resistance
+heat resistance
+leafhopper
+leafhopper resistance
