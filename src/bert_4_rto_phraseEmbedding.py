@@ -72,6 +72,10 @@ class Bert_Dataset(Dataset):
     def __init__(self, paras):
         self.vocab_size = paras.vocab_size
         
+        self.low_case = paras.low_case
+
+        self.token_fre_file = paras.token_fre_file
+                
         self.vocab = set()
         self.token_fre = {}
 
